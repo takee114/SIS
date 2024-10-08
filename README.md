@@ -10,6 +10,26 @@ The Student Information System (SIS) is a web-based application designed to stre
 - **Exam Management:** Schedule and oversee exams efficiently.
 - **Department Management:** Organize and manage departmental information seamlessly.
 
+## Screenshots
+
+1. **Department Dashboard**  
+   ![Department Dashboard](./department_dashboard.png)
+
+2. **Events Page**  
+   ![Events Page](./events_page.png)
+
+3. **Login Page**  
+   ![Login Page](./login_page.png)
+
+4. **Profile Page**  
+   ![Profile Page](./profile_page.png)
+
+5. **Registerer Dashboard**  
+   ![Registerer Dashboard](./registerer_dashboard.png)
+
+6. **Teachers Dashboard**  
+   ![Teachers Dashboard](./teachers_dashboard.png)
+
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
@@ -21,5 +41,4 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/takee114/SIS.git
-2. Navigate to the project directory open it in your browser
-   
+2. Navigate to the project directory and open the project in your browser.
