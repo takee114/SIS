@@ -12,7 +12,7 @@ The Student Information System (SIS) is a web-based application designed to stre
 
 ## Screenshots
 ### Department Dashboard
-<img src="./department%20dashboard.png" alt="department dashboard"  width: "50%" />
+<img src="./department%20dashboard.png" alt="department dashboard"  width="60%" />
 
 ### Events Page
 <img src="./events%20page.png" alt="events page" width="400"/>
