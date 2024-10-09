@@ -12,21 +12,23 @@ The Student Information System (SIS) is a web-based application designed to stre
 
 ## Screenshots
 ### Department Dashboard
-![Desktop View](./department%20dashboard.png "department dashboard")
-2. **Events Page**  
-   ![Events Page](./events%20page.png)
+<img src="./department%20dashboard.png" alt="department dashboard" width="400"/>
 
-3. **Login Page**  
-   ![Login Page](./login%20page.png)
+### Events Page
+<img src="./events%20page.png" alt="events page" width="400"/>
 
-4. **Profile Page**  
-   ![Profile Page](./profile%20page.png)
+### Login Page 
+<img src="./login%20page.png" alt="login page" width="400"/>
 
-5. **Registerer Dashboard**  
-   ![Registerer Dashboard](./registerer%20dashboard.png)
+### Profile Page
+<img src="./profile%20page.png" alt="profile page" width="400"/>
 
-6. **Teachers Dashboard**  
-   ![Teachers Dashboard](./teachers%20dashboard.png)
+### Registral Dashboard
+<img src="./registerer%20dashboard.png" alt="registral dashboard" width="400"/>
+
+### Teachers Dashboard
+<img src="./teachers%20dashboard.png" alt="teachers dashboard" width="400"/>
+
 
 ## Technologies Used
 
