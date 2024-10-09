@@ -12,8 +12,9 @@ The Student Information System (SIS) is a web-based application designed to stre
 
 ## Screenshots
 
-### Login Page
+###
 <div align="center">
+    <h3> Login Page </>
     <img src="./login%20page.png" alt="login page" width="50%"/>
 </div>
 
