@@ -13,7 +13,7 @@ The Student Information System (SIS) is a web-based application designed to stre
 ## Screenshots
 
 1. **Department Dashboard**  
-   ![Department Dashboard](./department_dashboard.png)
+   ![Department Dashboard](department_dashboard.png)
 
 2. **Events Page**  
    ![Events Page](./events_page.png)
