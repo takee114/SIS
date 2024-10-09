@@ -12,35 +12,34 @@ The Student Information System (SIS) is a web-based application designed to stre
 
 ## Screenshots
 
-###
+###                                                                         Login Page
 <div align="center">
-    <h3> Login Page </>
-    <img src="./login%20page.png" alt="login page" width="50%"/>
+    <img src="./login%20page.png" alt="login page" width="60%"/>
 </div>
 
-### Department Dashboard
+###                                                                       Department Dashboard
 <div align="center">
-    <img src="./department%20dashboard.png" alt="department dashboard" width="50%"/>
+    <img src="./department%20dashboard.png" alt="department dashboard" width="60%"/>
 </div>
 
-### Events Page
+###                                                                        Events Page
 <div align="center">
-    <img src="./events%20page.png" alt="events page" width="50%"/>
+    <img src="./events%20page.png" alt="events page" width="60%"/>
 </div>
 
-### Profile Page
+###                                                                        Profile Page
 <div align="center">
-    <img src="./profile%20page.png" alt="profile page" width="50%"/>
+    <img src="./profile%20page.png" alt="profile page" width="60%"/>
 </div>
 
-### Registral Dashboard
+###                                                                        Registral Dashboard
 <div align="center">
-    <img src="./registerer%20dashboard.png" alt="registral dashboard" width="50%"/>
+    <img src="./registerer%20dashboard.png" alt="registral dashboard" width="60%"/>
 </div>
 
-### Teachers Dashboard
+###                                                                        Teachers Dashboard
 <div align="center">
-    <img src="./teachers%20dashboard.png" alt="teachers dashboard" width="50%"/>
+    <img src="./teachers%20dashboard.png" alt="teachers dashboard" width="60%"/>
 </div>
 
 
