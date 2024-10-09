@@ -11,23 +11,37 @@ The Student Information System (SIS) is a web-based application designed to stre
 - **Department Management:** Organize and manage departmental information seamlessly.
 
 ## Screenshots
+
+### Login Page
+<div align="center">
+    <img src="./login%20page.png" alt="login page" width="50%"/>
+</div>
+
 ### Department Dashboard
-<img src="./department%20dashboard.png" alt="department dashboard"  width="60%" />
+<div align="center">
+    <img src="./department%20dashboard.png" alt="department dashboard" width="50%"/>
+</div>
 
 ### Events Page
-<img src="./events%20page.png" alt="events page" width="400"/>
-
-### Login Page 
-<img src="./login%20page.png" alt="login page" width="400"/>
+<div align="center">
+    <img src="./events%20page.png" alt="events page" width="50%"/>
+</div>
 
 ### Profile Page
-<img src="./profile%20page.png" alt="profile page" width="400"/>
+<div align="center">
+    <img src="./profile%20page.png" alt="profile page" width="50%"/>
+</div>
 
 ### Registral Dashboard
-<img src="./registerer%20dashboard.png" alt="registral dashboard" width="400"/>
+<div align="center">
+    <img src="./registerer%20dashboard.png" alt="registral dashboard" width="50%"/>
+</div>
 
 ### Teachers Dashboard
-<img src="./teachers%20dashboard.png" alt="teachers dashboard" width="400"/>
+<div align="center">
+    <img src="./teachers%20dashboard.png" alt="teachers dashboard" width="50%"/>
+</div>
+
 
 
 ## Technologies Used
